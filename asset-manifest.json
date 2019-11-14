@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/click-game-with-react/static/css/main.6aff6131.chunk.css",
+    "main.js": "/click-game-with-react/static/js/main.76b3c3fb.chunk.js",
+    "main.js.map": "/click-game-with-react/static/js/main.76b3c3fb.chunk.js.map",
+    "runtime-main.js": "/click-game-with-react/static/js/runtime-main.e7ca2d5d.js",
+    "runtime-main.js.map": "/click-game-with-react/static/js/runtime-main.e7ca2d5d.js.map",
+    "static/js/2.a16ec29d.chunk.js": "/click-game-with-react/static/js/2.a16ec29d.chunk.js",
+    "static/js/2.a16ec29d.chunk.js.map": "/click-game-with-react/static/js/2.a16ec29d.chunk.js.map",
+    "index.html": "/click-game-with-react/index.html",
+    "precache-manifest.cdaf10955c2a13ddbf2902355c685a3b.js": "/click-game-with-react/precache-manifest.cdaf10955c2a13ddbf2902355c685a3b.js",
+    "service-worker.js": "/click-game-with-react/service-worker.js",
+    "static/css/main.6aff6131.chunk.css.map": "/click-game-with-react/static/css/main.6aff6131.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7ca2d5d.js",
+    "static/js/2.a16ec29d.chunk.js",
+    "static/css/main.6aff6131.chunk.css",
+    "static/js/main.76b3c3fb.chunk.js"
+  ]
+}
