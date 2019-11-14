@@ -1,3 +1,3 @@
 # click-game-with-react
 
-[Live Site](git@github.com:jamesgrodzicki/click-game-with-react.git)
+[Live Site](https://jamesgrodzicki.github.io/click-game-with-react/)
