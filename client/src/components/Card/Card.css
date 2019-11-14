@@ -1,0 +1,12 @@
+.card {
+    padding: 5px;
+    width: 20%;
+    margin: 5px;
+    border: 2px solid #333;
+    float: left;
+}
+
+.image {
+    height: 400px;
+    width: 100%;
+}
